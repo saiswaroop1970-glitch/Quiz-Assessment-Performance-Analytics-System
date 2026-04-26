@@ -1,2 +1,15 @@
-# Quiz-Assessment-Performance-Analytics-System
-A Quiz Assessment &amp; Performance Analytics System is a digital platform designed to create, manage, and evaluate quizzes efficiently. It tracks user performance, analyzes results in real time, and provides insights through reports and dashboards, helping educators and learners identify strengths, weaknesses, and progress over time.
+section2-->batch10>
+
+Quiz-Assessment-Performance-Analytics-System
+
+Team details
+
+ID number and name
+
+250003277-BARTHU PRANAJITH SAI SWAROOP
+
+2500032186-CHANNAPATHI HEMANTH KOUSHIK
+
+2500032091-ARI AARTHI DEEPIKA
+
+2500032073-NITHIN SINGH
